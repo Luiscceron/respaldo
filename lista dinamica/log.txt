@@ -1,0 +1,5 @@
+09:57:19: Failed to open 'C:\Users\USER\OneDrive\Desktop\Documentos\Luis\Unicauca\programaciooon\Repositorios GITHUB\lista dinamica\main.cpp' for reading (error 2: el sistema no puede encontrar el archivo especificado.)
+09:57:19: Failed to retrieve file times for 'C:\Users\USER\OneDrive\Desktop\Documentos\Luis\Unicauca\programaciooon\Repositorios GITHUB\lista dinamica\main.cpp' (error 2: el sistema no puede encontrar el archivo especificado.)
+09:57:19: can't open file 'C:\Users\USER\OneDrive\Desktop\Documentos\Luis\Unicauca\programaciooon\Repositorios GITHUB\lista dinamica\main.cpp' (error 2: el sistema no puede encontrar el archivo especificado.)
+09:57:19: Failed to open 'C:\Users\USER\OneDrive\Desktop\Documentos\Luis\Unicauca\programaciooon\Repositorios GITHUB\lista dinamica\main.cpp' for reading (error 2: el sistema no puede encontrar el archivo especificado.)
+09:57:19: Failed to retrieve file times for 'C:\Users\USER\OneDrive\Desktop\Documentos\Luis\Unicauca\programaciooon\Repositorios GITHUB\lista dinamica\main.cpp' (error 2: el sistema no puede encontrar el archivo especificado.)
