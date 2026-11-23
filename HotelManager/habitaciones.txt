@@ -1,0 +1,3 @@
+101::Sencilla::120000.0::Disponible::img1.png
+102::Doble::250000.0::Ocupada::img2.png
+201::Suite VIP::500000.0::Disponible::img3.png

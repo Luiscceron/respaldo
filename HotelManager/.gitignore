@@ -1,0 +1,10 @@
+# Archivos compilados y ejecutables de NetBeans
+build/
+dist/
+
+# Configuración local privada de cada computador
+nbproject/private/
+
+# Basura del sistema operativo
+.DS_Store
+Thumbs.db

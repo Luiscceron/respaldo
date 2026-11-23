@@ -1,0 +1,8 @@
+=== REPORTE DE FACTURACIÓN HOTELMANAGER ===
+
+Total Facturado: $620000 COP  |  Reservas Confirmadas: 2
+
+ID         | Huésped                | Habitación | Total        | Fecha       
+-----------------------------------------------------------------------------
+R-219      | juan                   | Hab 101    | $120000      | 2026-11-20  
+R-744      | camilo                 | Hab 102    | $500000      | 2026-11-20  
